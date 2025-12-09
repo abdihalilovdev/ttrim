@@ -19,7 +19,7 @@ body {
 }
 
 #header {
-  padding: 20px 0;
+  padding: 20px 0px;
   background: white;
 }
 
@@ -339,6 +339,12 @@ body {
 .footer-nav {
   display: flex;
   gap: 53px;
+}
+
+.footer-nav a {
+  color: #222222;
+  font-size: 15px;
+  font-weight: 700;
 }
 
 .footer-social {
